@@ -1,1 +1,8 @@
+It is a simple learning algorithm used to minimize the cost function of the inputs.
+The whole point of linear regression is to fit a line to the data which is accurate enough and find a pattern in correspondence with y coordinattes.
+It is in the form of a linear function y=mx+b.
+The error in y is minimized such that we get accurate results for the model.
+The error is represented by E.
+E = 1/2*n(y-(mx+b))**2
+E is partially differentiated wrt to m,b which determine the slope and intercept of the line fit to the model.
 
